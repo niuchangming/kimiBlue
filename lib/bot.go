@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	tgAPIToken = "6722486938:AAHgayUeypJJNWmcjT-auj1Fva76DHEeqYc"
+	tgAPIToken = ""
 )
 
 func StartBot() {
